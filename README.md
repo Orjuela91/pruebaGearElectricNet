@@ -12,4 +12,4 @@ ORM: Entity Framework
   4) abrir una terminal en visual studio y ejecutar el comando Add-migration
   5) ejecutar el proyecto.
   
-  Nota: imagen configuracion https://ibb.co/vQC4JxR
+  Nota: imagen configuracion https://ibb.co/vQC4JxR y https://ibb.co/gw8pMSf
