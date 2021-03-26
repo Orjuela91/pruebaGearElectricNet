@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\orjue\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\orjue\\.nuget\\packages"
+    ]
+  }
+}
